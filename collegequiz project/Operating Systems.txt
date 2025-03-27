@@ -1,0 +1,100 @@
+What is the primary function of an operating system?
+Process Management|File Management|Memory Management|Device Management|
+Which scheduling algorithm allocates CPU to the process with the shortest burst time?
+Shortest Job First|First Come First Serve|Round Robin|Priority Scheduling|
+What is the smallest unit of execution in an operating system?
+Thread|Process|Program|Kernel|
+Which memory management technique divides memory into fixed-size blocks?
+Paging|Segmentation|Swapping|Fragmentation|
+What is the main purpose of a semaphore in operating systems?
+Synchronization|Memory Allocation|CPU Scheduling|Deadlock Prevention|
+Which type of kernel provides minimal services and relies on user-level servers?
+Microkernel|Monolithic Kernel|Hybrid Kernel|Exokernel|
+What is the term for a situation where two or more processes are waiting indefinitely for each other?
+Deadlock|Starvation|Race Condition|Thrashing|
+Which algorithm is used to prevent deadlock by ensuring safe resource allocation?
+Banker's Algorithm|Round Robin|First Fit|Best Fit|
+What is the phenomenon where excessive paging leads to degraded system performance?
+Thrashing|Fragmentation|Swapping|Overloading|
+Which file system is commonly used in Linux distributions?
+ext4|NTFS|FAT32|HFS+|
+What is the state of a process when it is waiting for I/O operations to complete?
+Waiting|Running|Ready|Terminated|
+Which data structure is used to store information about a process in the OS?
+Process Control Block|Stack|Queue|Heap|
+What is the term for switching the CPU from one process to another?
+Context Switching|Interrupt Handling|Preemption|Multitasking|
+Which scheduling policy ensures fairness by allocating equal time slices to all processes?
+Round Robin|Priority Scheduling|Shortest Job First|First Come First Serve|
+What is the term for a program in execution?
+Process|Thread|Kernel|Task|
+Which condition must be satisfied to ensure progress in synchronization problems?
+Mutual Exclusion|Progress|Bounded Waiting|No Preemption|
+What is the term for executing multiple threads within a single process?
+Multithreading|Multiprocessing|Multitasking|Concurrency|
+Which system call creates a new process in Unix-like operating systems?
+fork()|exec()|wait()|exit()|
+What is the term for assigning priorities to processes to determine their order of execution?
+Priority Scheduling|Round Robin|First Come First Serve|Shortest Job First|
+Which mechanism allows communication between processes in separate address spaces?
+Inter-Process Communication|Shared Memory|Message Passing|Sockets|
+What is the technique of dividing physical memory into fixed-size blocks called?
+Paging|Segmentation|Swapping|Partitioning|
+Which memory allocation scheme suffers from external fragmentation?
+Segmentation|Paging|Virtual Memory|Demand Paging|
+What is the term for loading only necessary parts of a program into memory?
+Demand Paging|Swapping|Segmentation|Paging|
+Which table maps logical addresses to physical addresses in paging?
+Page Table|Segment Table|Frame Table|Directory Table|
+What is the term for temporarily moving inactive processes out of main memory?
+Swapping|Paging|Segmentation|Fragmentation|
+Which technique combines segmentation and paging for better memory utilization?
+Segmented Paging|Simple Paging|Simple Segmentation|Virtual Memory|
+What is the size of a page typically determined by in modern systems?
+Power of Two|Power of Ten|Any Integer Value|Prime Numbers|
+Which problem occurs when too many page faults degrade system performance?
+Thrashing|Fragmentation|Deadlock|Starvation|
+What is the term for mapping virtual addresses to physical addresses?
+Address Translation|Memory Mapping|Address Binding|Memory Allocation|
+Which component manages the translation lookaside buffer (TLB)?
+Memory Management Unit|Central Processing Unit|Input/Output Controller|Cache Controller|
+Which file allocation method uses linked lists to track file blocks?
+Linked Allocation|Contiguous Allocation|Indexed Allocation|Dynamic Allocation|
+What is the term for storing metadata about files in a directory?
+File Descriptor|Inode|Block Pointer|Index Node|
+Which disk scheduling algorithm moves the head back and forth across the disk?
+SCAN|C-SCAN|FCFS|SSTF|
+What is the term for reducing the number of disk head movements?
+Disk Arm Scheduling|Disk Defragmentation|Disk Caching|Disk Mirroring|
+Which file system supports journaling to recover from crashes?
+ext3|FAT32|NTFS|HFS+|
+What is the term for accessing data directly without scanning sequentially?
+Random Access|Sequential Access|Indexed Access|Direct Access|
+Which buffering technique stores data temporarily to improve I/O performance?
+Double Buffering|Single Buffering|Circular Buffering|No Buffering|
+What is the term for grouping related files into a single unit?
+Directory|Folder|Volume|Partition|
+Which RAID level mirrors data across two disks for redundancy?
+RAID 1|RAID 0|RAID 5|RAID 10|
+What is the term for organizing files hierarchically?
+Tree Structure|Linear Structure|Graph Structure|Ring Structure|
+Which condition must be eliminated to prevent deadlocks?
+Hold and Wait|Mutual Exclusion|No Preemption|Circular Wait|
+What is the term for allowing only one process to access a resource at a time?
+Mutual Exclusion|Synchronization|Deadlock|Starvation|
+Which algorithm detects deadlocks by analyzing resource allocation graphs?
+Resource Allocation Graph|Banker's Algorithm|Deadlock Detection Algorithm|Safe State Algorithm|
+What is the term for a process being denied resources indefinitely?
+Starvation|Deadlock|Race Condition|Thrashing|
+Which synchronization primitive uses a binary value to control access?
+Mutex|Semaphore|Monitor|Lock|
+What is the term for a region of code where shared resources are accessed?
+Critical Section|Mutex|Semaphore|Barrier|
+Which solution avoids deadlocks by requiring processes to request all resources at once?
+Deadlock Prevention|Deadlock Avoidance|Deadlock Detection|Deadlock Recovery|
+What is the term for a set of blocked processes holding resources and waiting for others?
+Deadlock|Starvation|Race Condition|Thrashing|
+Which technique ensures that no two processes enter their critical sections simultaneously?
+Peterson's Solution|Mutex Lock|Semaphore|Monitor|
+What is the term for a software mechanism that prevents race conditions?
+Synchronization|Deadlock|Starvation|Thrashing|

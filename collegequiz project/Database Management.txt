@@ -1,0 +1,100 @@
+What is the primary purpose of a DBMS?
+Data Management|Data Storage|Data Analysis|Data Visualization|
+Which model organizes data into tables with rows and columns?
+Relational Model|Hierarchical Model|Network Model|Object-Oriented Model|
+What is the term for a collection of related data stored in a structured format?
+Database|Table|Schema|Record|
+Which language is used to interact with relational databases?
+SQL|NoSQL|Python|Java|
+What is the term for ensuring data consistency and accuracy in a database?
+Data Integrity|Data Security|Data Redundancy|Data Normalization|
+What is the term for a single entry in a database table?
+Tuple|Attribute|Entity|Relation|
+Which operation combines two tables based on a common attribute?
+Join|Union|Intersection|Difference|
+What is the term for a column in a database table?
+Attribute|Tuple|Entity|Relation|
+Which type of key uniquely identifies a row in a table?
+Primary Key|Foreign Key|Candidate Key|Composite Key|
+What is the term for a relationship between two tables using a foreign key?
+Referential Integrity|Data Consistency|Data Dependency|Data Redundancy|
+Which SQL command is used to retrieve data from a table?
+SELECT|INSERT|UPDATE|DELETE|
+What is the keyword used to filter rows in an SQL query?
+WHERE|HAVING|GROUP BY|ORDER BY|
+Which SQL clause is used to sort the result set in ascending or descending order?
+ORDER BY|GROUP BY|HAVING|LIMIT|
+What is the keyword used to remove duplicate rows from a query result?
+DISTINCT|UNIQUE|GROUP BY|ORDER BY|
+Which SQL statement is used to add new rows to a table?
+INSERT INTO|UPDATE|DELETE FROM|CREATE TABLE|
+What is the process of organizing data to reduce redundancy called?
+Normalization|Denormalization|Indexing|Partitioning|
+Which normal form eliminates repeating groups in a table?
+First Normal Form|Second Normal Form|Third Normal Form|Boyce-Codd Normal Form|
+What is the term for a dependency where a non-prime attribute depends on another non-prime attribute?
+Transitive Dependency|Partial Dependency|Functional Dependency|Full Dependency|
+Which normal form ensures that every determinant is a candidate key?
+Boyce-Codd Normal Form|Third Normal Form|Second Normal Form|First Normal Form|
+What is the term for splitting a table into smaller tables to eliminate redundancy?
+Decomposition|Aggregation|Clustering|Partitioning|
+What is the property that ensures all operations in a transaction are completed successfully?
+Atomicity|Consistency|Isolation|Durability|
+Which isolation level allows dirty reads but prevents lost updates?
+Read Uncommitted|Read Committed|Repeatable Read|Serializable|
+What is the term for a situation where two transactions wait indefinitely for each other to release locks?
+Deadlock|Starvation|Race Condition|Thrashing|
+Which protocol ensures serializability by locking resources before accessing them?
+Two-Phase Locking|Timestamp Ordering|Optimistic Concurrency Control|Multiversion Concurrency Control|
+What is the term for rolling back a transaction to its previous consistent state?
+Rollback|Commit|Savepoint|Checkpoint|
+What is the data structure commonly used to speed up data retrieval in a database?
+B-Tree|Hash Table|Linked List|Array|
+Which type of index stores data pointers in a sorted order?
+Clustered Index|Non-Clustered Index|Bitmap Index|Hash Index|
+What is the term for analyzing and improving the performance of SQL queries?
+Query Optimization|Indexing|Partitioning|Sharding|
+Which technique splits a large table into smaller, more manageable pieces?
+Partitioning|Indexing|Normalization|Denormalization|
+What is the term for a temporary storage area used to hold intermediate results during query execution?
+Buffer|Cache|Heap|Stack|
+What is the term for an entity that depends on another entity for its existence?
+Weak Entity|Strong Entity|Composite Entity|Derived Entity|
+Which diagram is used to represent entities and their relationships in a database?
+ER Diagram|Flowchart|UML Diagram|Data Flow Diagram|
+What is the term for an attribute that uniquely identifies an entity instance?
+Key Attribute|Composite Attribute|Derived Attribute|Multivalued Attribute|
+Which type of relationship involves three entities?
+Ternary Relationship|Binary Relationship|Unary Relationship|Recursive Relationship|
+What is the term for a relationship where an entity relates to itself?
+Recursive Relationship|Reflexive Relationship|Associative Relationship|Composite Relationship|
+Which type of database stores data in key-value pairs?
+NoSQL|Relational Database|Object-Oriented Database|Hierarchical Database|
+What is the term for distributing a database across multiple locations?
+Distributed Database|Centralized Database|Replicated Database|Partitioned Database|
+Which technique ensures that all copies of data in a distributed system remain consistent?
+Replication|Sharding|Partitioning|Indexing|
+What is the term for storing frequently accessed data closer to the user?
+Caching|Replication|Sharding|Partitioning|
+Which database model uses nodes and edges to represent data?
+Graph Database|Relational Database|Document Database|Columnar Database|
+What is the term for restricting access to unauthorized users in a database?
+Data Security|Data Integrity|Data Availability|Data Consistency|
+Which backup method involves copying only the data that has changed since the last backup?
+Incremental Backup|Full Backup|Differential Backup|Snapshot Backup|
+What is the term for restoring a database to a consistent state after a failure?
+Recovery|Backup|Checkpoint|Log|
+Which technique logs all changes made to a database for recovery purposes?
+Write-Ahead Logging|Two-Phase Commit|Shadow Paging|Log-Based Recovery|
+What is the term for a point in time when the database is in a consistent state?
+Checkpoint|Log|Backup|Snapshot|
+Which database constraint ensures that a column cannot have NULL values?
+NOT NULL|PRIMARY KEY|FOREIGN KEY|UNIQUE|
+What is the term for a database that resides entirely in memory?
+In-Memory Database|Disk-Based Database|Distributed Database|Cloud Database|
+Which type of join returns only the rows that have matching values in both tables?
+Inner Join|Left Join|Right Join|Full Outer Join|
+What is the term for a database that supports ACID properties?
+Transactional Database|Analytical Database|Operational Database|NoSQL Database|
+Which database feature allows users to view data without storing it physically?
+View|Table|Index|Trigger|

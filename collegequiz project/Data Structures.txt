@@ -1,0 +1,100 @@
+What is the time complexity of accessing an element in an array?
+O(1)|O(n)|O(log n)|O(n²)|
+Which data structure follows the Last In, First Out (LIFO) principle?
+Stack|Queue|Linked List|Tree|
+What is the term for a data structure that stores elements in a key-value pair?
+Hash Table|Array|Linked List|Graph|
+Which operation is used to add an element to the top of a stack?
+Push|Pop|Enqueue|Dequeue|
+What is the primary advantage of a linked list over an array?
+Dynamic Size|Faster Access|Fixed Size|Less Memory Usage|
+What is the time complexity of searching for an element in an unsorted array?
+O(n)|O(1)|O(log n)|O(n²)|
+Which algorithm is commonly used to sort an array in O(n log n) time?
+Merge Sort|Bubble Sort|Selection Sort|Insertion Sort|
+What is the term for a contiguous block of memory used to store elements?
+Array|Linked List|Stack|Queue|
+Which operation is used to remove the last element from an array?
+Pop|Push|Shift|Unshift|
+What is the time complexity of inserting an element at the beginning of an array?
+O(n)|O(1)|O(log n)|O(n²)|
+What is the main disadvantage of a singly linked list compared to a doubly linked list?
+Cannot Traverse Backward|Slower Insertion|Higher Memory Usage|No Random Access|
+Which type of linked list allows traversal in both directions?
+Doubly Linked List|Singly Linked List|Circular Linked List|Array|
+What is the time complexity of inserting a node at the beginning of a linked list?
+O(1)|O(n)|O(log n)|O(n²)|
+Which data structure is ideal for implementing a browser's back button functionality?
+Doubly Linked List|Stack|Queue|Array|
+What is the term for a linked list where the last node points back to the first node?
+Circular Linked List|Singly Linked List|Doubly Linked List|Array|
+Which data structure is used to reverse a string efficiently?
+Stack|Queue|Linked List|Array|
+What is the time complexity of enqueueing an element in a queue?
+O(1)|O(n)|O(log n)|O(n²)|
+Which operation removes the front element from a queue?
+Dequeue|Enqueue|Push|Pop|
+What is the term for a queue that allows insertion and deletion from both ends?
+Deque|Stack|Priority Queue|Circular Queue|
+Which application uses a stack to manage function calls?
+Call Stack|Queue|Heap|Array|
+What is the maximum number of children a node can have in a binary tree?
+2|1|3|4|
+Which traversal visits the root node first, then the left subtree, and finally the right subtree?
+Preorder Traversal|Inorder Traversal|Postorder Traversal|Level Order Traversal|
+What is the height of a complete binary tree with n nodes?
+log₂(n+1)|n|n²|n log n|
+Which tree structure ensures that the left child is smaller and the right child is larger than the parent?
+Binary Search Tree|Binary Tree|AVL Tree|Heap|
+What is the time complexity of searching for an element in a balanced binary search tree?
+O(log n)|O(n)|O(1)|O(n²)|
+Which heap property ensures that the parent node is always greater than its children?
+Max Heap|Min Heap|Binary Heap|Fibonacci Heap|
+What is the time complexity of inserting an element into a binary heap?
+O(log n)|O(n)|O(1)|O(n²)|
+Which data structure is commonly used to implement priority queues?
+Heap|Stack|Queue|Array|
+What is the process of restoring the heap property called?
+Heapify|Sort|Merge|Partition|
+Which operation removes the root element from a max heap?
+Extract Max|Insert|Delete|Search|
+Which data structure is commonly used to represent a graph?
+Adjacency List|Array|Linked List|Stack|
+What is the term for a graph where each edge has a weight?
+Weighted Graph|Directed Graph|Undirected Graph|Cyclic Graph|
+Which algorithm is used to find the shortest path in an unweighted graph?
+Breadth-First Search|Depth-First Search|Dijkstra's Algorithm|Bellman-Ford Algorithm|
+What is the time complexity of Depth-First Search (DFS) on a graph?
+O(V + E)|O(V²)|O(E)|O(log V)|
+Which algorithm is used to detect cycles in a graph?
+Depth-First Search|Breadth-First Search|Kruskal's Algorithm|Prim's Algorithm|
+What is the primary purpose of a hash function?
+Map Keys to Indices|Sort Elements|Store Data Sequentially|Traverse Data|
+Which collision resolution technique uses linked lists to handle collisions?
+Chaining|Open Addressing|Linear Probing|Quadratic Probing|
+What is the term for two different keys producing the same hash value?
+Collision|Clustering|Overflow|Duplication|
+Which data structure is used to implement a hash table?
+Array|Linked List|Stack|Queue|
+What is the load factor of a hash table?
+Number of Elements / Table Size|Table Size / Number of Elements|Number of Collisions / Table Size|Table Size / Number of Collisions|
+Which sorting algorithm is not comparison-based?
+Counting Sort|Merge Sort|Quick Sort|Heap Sort|
+What is the time complexity of Quick Sort in the worst case?
+O(n²)|O(n log n)|O(n)|O(log n)|
+Which algorithm divides the array into halves and recursively sorts them?
+Merge Sort|Bubble Sort|Selection Sort|Insertion Sort|
+What is the time complexity of Binary Search?
+O(log n)|O(n)|O(1)|O(n²)|
+Which search algorithm works efficiently on sorted arrays?
+Binary Search|Linear Search|Depth-First Search|Breadth-First Search|
+Which data structure is used to implement LRU Cache?
+Doubly Linked List with Hash Map|Array|Stack|Queue|
+What is the time complexity of finding the minimum element in a min heap?
+O(1)|O(n)|O(log n)|O(n²)|
+Which algorithm is used to find the minimum spanning tree of a graph?
+Kruskal's Algorithm|Dijkstra's Algorithm|Bellman-Ford Algorithm|Floyd-Warshall Algorithm|
+What is the term for a self-balancing binary search tree?
+AVL Tree|Binary Tree|Heap|Graph|
+Which data structure is used to implement undo functionality in text editors?
+Stack|Queue|Linked List|Array|

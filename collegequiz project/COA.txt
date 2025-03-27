@@ -1,0 +1,100 @@
+What is the primary function of the Control Unit in a CPU?
+Instruction Decoding|Data Processing|Memory Management|Input/Output Handling|
+Which component of the CPU performs arithmetic and logical operations?
+ALU|Control Unit|Registers|Cache|
+What is the term for the time taken by the CPU to fetch and execute an instruction?
+Instruction Cycle|Clock Cycle|Execution Time|Latency|
+Which addressing mode uses the value stored in a register as the operand address?
+Register Indirect Addressing|Direct Addressing|Immediate Addressing|Indexed Addressing|
+What is the smallest unit of data in a computer?
+Bit|Byte|Nibble|Word|
+Which type of instruction directly specifies the operand within the instruction itself?
+Immediate Addressing|Direct Addressing|Indirect Addressing|Register Addressing|
+What is the term for the set of all instructions that a CPU can execute?
+Instruction Set|Microcode|Assembly Language|Machine Code|
+Which type of instruction modifies the program counter to alter the flow of execution?
+Branch Instruction|Data Transfer Instruction|Arithmetic Instruction|Logical Instruction|
+What is the term for an instruction format where the opcode and operands are fixed in size?
+Fixed-Length Instruction|Variable-Length Instruction|Stack-Based Instruction|Register-Based Instruction|
+Which instruction set architecture uses a small set of general-purpose registers?
+RISC|CISC|VLIW|EPIC|
+Which memory is closest to the CPU and provides the fastest access?
+Cache|RAM|ROM|Hard Disk|
+What is the term for the phenomenon where frequently accessed data is kept in faster memory?
+Locality of Reference|Paging|Segmentation|Thrashing|
+Which level of cache is typically shared between multiple cores in a processor?
+L3 Cache|L1 Cache|L2 Cache|Main Memory|
+What is the term for dividing memory into fixed-size blocks called pages?
+Paging|Segmentation|Fragmentation|Swapping|
+Which memory technology retains data even after power loss?
+Non-Volatile Memory|Volatile Memory|Dynamic Memory|Static Memory|
+What is the term for the number of bits processed by the CPU in a single operation?
+Word Size|Bus Width|Clock Speed|Cache Size|
+Which type of processor executes one instruction at a time?
+Scalar Processor|Superscalar Processor|Vector Processor|Multicore Processor|
+What is the term for executing multiple instructions simultaneously?
+Instruction-Level Parallelism|Task-Level Parallelism|Thread-Level Parallelism|Process-Level Parallelism|
+Which pipeline stage decodes the fetched instruction?
+Decode|Fetch|Execute|Write Back|
+What is the term for stalling the pipeline due to missing data or instructions?
+Pipeline Stall|Pipeline Burst|Pipeline Flush|Pipeline Bypass|
+Which I/O mechanism allows devices to transfer data directly to memory without CPU intervention?
+DMA|Interrupt-Driven I/O|Programmed I/O|Polling|
+What is the term for a signal sent to the CPU to request attention from a device?
+Interrupt|Exception|Trap|Signal|
+Which type of I/O is used for high-speed data transfer between peripherals and memory?
+DMA|Interrupt-Driven I/O|Programmed I/O|Polling|
+What is the term for periodically checking the status of a device to see if it needs attention?
+Polling|Interrupt|DMA|Exception|
+Which interface standard is commonly used for connecting storage devices?
+SATA|USB|PCIe|HDMI|
+What is the term for the number of clock cycles required to execute an instruction?
+CPI|IPC|Throughput|Latency|
+Which metric measures the number of instructions executed per second?
+MIPS|FLOPS|Latency|Throughput|
+What is the term for the time interval between two consecutive clock pulses?
+Clock Cycle|Instruction Cycle|Execution Time|Latency|
+Which performance improvement technique involves overlapping the execution of multiple instructions?
+Pipelining|Superscalar Execution|Hyperthreading|Multithreading|
+What is the term for reducing the number of clock cycles required to execute instructions?
+Optimization|Parallelism|Caching|Prefetching|
+Which architectural feature improves performance by predicting branches?
+Branch Prediction|Speculative Execution|Out-of-Order Execution|Superscalar Execution|
+What is the term for executing instructions in an order different from their appearance in the program?
+Out-of-Order Execution|In-Order Execution|Sequential Execution|Parallel Execution|
+Which technique involves executing multiple threads on a single processor core?
+Hyperthreading|Multithreading|Superscalar Execution|Pipelining|
+What is the term for increasing the clock speed of a processor?
+Overclocking|Underclocking|Throttling|Boosting|
+Which technology combines multiple physical processors into a single logical processor?
+Multicore Processing|Multiprocessing|Hyperthreading|Superscalar Processing|
+Which component connects the CPU to peripheral devices?
+Bus|Cache|Register|Memory|
+What is the term for the width of the data bus in bits?
+Bus Width|Word Size|Cache Line|Address Space|
+Which type of memory stores the BIOS in a computer?
+ROM|RAM|Cache|Registers|
+What is the term for a group of wires used to transfer data between components?
+Data Bus|Address Bus|Control Bus|System Bus|
+Which type of memory is volatile and requires constant refreshing?
+DRAM|SRAM|ROM|Flash Memory|
+What is the term for dividing instruction execution into smaller stages?
+Pipelining|Superscalar Execution|Hyperthreading|Multithreading|
+Which hazard occurs when instructions depend on the results of previous instructions?
+Data Hazard|Control Hazard|Structural Hazard|Resource Hazard|
+What is the term for resolving hazards by inserting NOP instructions?
+Pipeline Stalling|Pipeline Flushing|Pipeline Bypassing|Pipeline Optimization|
+Which technique predicts the outcome of branch instructions to avoid stalls?
+Branch Prediction|Speculative Execution|Out-of-Order Execution|Superscalar Execution|
+What is the term for overlapping the execution of multiple instructions in a pipeline?
+Instruction-Level Parallelism|Task-Level Parallelism|Thread-Level Parallelism|Process-Level Parallelism|
+Which architecture uses a single memory space for both data and instructions?
+Von Neumann Architecture|Harvard Architecture|RISC Architecture|CISC Architecture|
+What is the term for the delay caused by accessing slower memory?
+Memory Latency|Cache Miss|Page Fault|Cycle Time|
+Which type of memory is faster but more expensive than DRAM?
+SRAM|DRAM|ROM|Flash Memory|
+What is the term for the process of mapping virtual addresses to physical addresses?
+Address Translation|Memory Mapping|Address Binding|Memory Allocation|
+Which type of memory is used for temporary storage during program execution?
+RAM|ROM|Cache|Registers|
